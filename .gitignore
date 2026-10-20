@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+results/applicability_run.log
+results/applicability_terms.jsonl
+results/applicability_extractions.json

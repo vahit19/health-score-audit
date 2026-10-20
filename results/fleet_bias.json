@@ -1,0 +1,717 @@
+{
+ "0.1": {
+  "rows": [
+   {
+    "seed": 0,
+    "failure_capture": 0.1,
+    "high_codes": 1375,
+    "true_accuracy": 0.8679272727272728,
+    "fleet_accuracy": 0.9876173258376879,
+    "fleet_events": 121137,
+    "audit_size": 400,
+    "audit_accuracy": 0.8725,
+    "audit_lower": 0.8417479241996065,
+    "audit_upper": 0.8990575181823854
+   },
+   {
+    "seed": 1,
+    "failure_capture": 0.1,
+    "high_codes": 1461,
+    "true_accuracy": 0.8514373716632442,
+    "fleet_accuracy": 0.9837216941030992,
+    "fleet_events": 103512,
+    "audit_size": 400,
+    "audit_accuracy": 0.8475,
+    "audit_lower": 0.8147735648199428,
+    "audit_upper": 0.8763283525394726
+   },
+   {
+    "seed": 2,
+    "failure_capture": 0.1,
+    "high_codes": 1407,
+    "true_accuracy": 0.8524520255863538,
+    "fleet_accuracy": 0.9861616515045486,
+    "fleet_events": 114320,
+    "audit_size": 400,
+    "audit_accuracy": 0.8525,
+    "audit_lower": 0.820144785046657,
+    "audit_upper": 0.8808983478756114
+   },
+   {
+    "seed": 3,
+    "failure_capture": 0.1,
+    "high_codes": 1471,
+    "true_accuracy": 0.839259007477906,
+    "fleet_accuracy": 0.9859891465219536,
+    "fleet_events": 121620,
+    "audit_size": 400,
+    "audit_accuracy": 0.845,
+    "audit_lower": 0.8120920555283533,
+    "audit_upper": 0.874039172409472
+   },
+   {
+    "seed": 4,
+    "failure_capture": 0.1,
+    "high_codes": 1423,
+    "true_accuracy": 0.8385804638088543,
+    "fleet_accuracy": 0.98523971018961,
+    "fleet_events": 103792,
+    "audit_size": 400,
+    "audit_accuracy": 0.8475,
+    "audit_lower": 0.8147735648199428,
+    "audit_upper": 0.8763283525394726
+   },
+   {
+    "seed": 5,
+    "failure_capture": 0.1,
+    "high_codes": 1459,
+    "true_accuracy": 0.8436257710760794,
+    "fleet_accuracy": 0.9876093512077151,
+    "fleet_events": 133972,
+    "audit_size": 400,
+    "audit_accuracy": 0.8575,
+    "audit_lower": 0.8255273194973574,
+    "audit_upper": 0.885456795736019
+   },
+   {
+    "seed": 6,
+    "failure_capture": 0.1,
+    "high_codes": 1440,
+    "true_accuracy": 0.8394791666666666,
+    "fleet_accuracy": 0.9854659200884833,
+    "fleet_events": 115728,
+    "audit_size": 400,
+    "audit_accuracy": 0.8125,
+    "audit_lower": 0.7774580037744417,
+    "audit_upper": 0.8440502027821011
+   },
+   {
+    "seed": 7,
+    "failure_capture": 0.1,
+    "high_codes": 1402,
+    "true_accuracy": 0.8445435092724679,
+    "fleet_accuracy": 0.9892485781383137,
+    "fleet_events": 144353,
+    "audit_size": 400,
+    "audit_accuracy": 0.835,
+    "audit_lower": 0.8013921462804091,
+    "audit_upper": 0.8648558277004843
+   },
+   {
+    "seed": 8,
+    "failure_capture": 0.1,
+    "high_codes": 1366,
+    "true_accuracy": 0.8568081991215227,
+    "fleet_accuracy": 0.9927155700858193,
+    "fleet_events": 195760,
+    "audit_size": 400,
+    "audit_accuracy": 0.8775,
+    "audit_lower": 0.847181075322359,
+    "audit_upper": 0.903564180982336
+   },
+   {
+    "seed": 9,
+    "failure_capture": 0.1,
+    "high_codes": 1441,
+    "true_accuracy": 0.835530881332408,
+    "fleet_accuracy": 0.985511509891888,
+    "fleet_events": 108776,
+    "audit_size": 400,
+    "audit_accuracy": 0.83,
+    "audit_lower": 0.7960572028132432,
+    "audit_upper": 0.8602488719369863
+   }
+  ],
+  "true_accuracy": {
+   "mean": 0.8469643668732776,
+   "min": 0.835530881332408,
+   "max": 0.8679272727272728,
+   "n": 10
+  },
+  "fleet_accuracy": {
+   "mean": 0.9869280457569118,
+   "min": 0.9837216941030992,
+   "max": 0.9927155700858193,
+   "n": 10
+  },
+  "audit_accuracy": {
+   "mean": 0.8477500000000001,
+   "min": 0.8125,
+   "max": 0.8775,
+   "n": 10
+  },
+  "audit_interval_covers_truth": 10
+ },
+ "0.3": {
+  "rows": [
+   {
+    "seed": 0,
+    "failure_capture": 0.3,
+    "high_codes": 1316,
+    "true_accuracy": 0.8982142857142856,
+    "fleet_accuracy": 0.9750208572537812,
+    "fleet_events": 121061,
+    "audit_size": 400,
+    "audit_accuracy": 0.92,
+    "audit_lower": 0.8940339908066988,
+    "audit_upper": 0.9411795174134943
+   },
+   {
+    "seed": 1,
+    "failure_capture": 0.3,
+    "high_codes": 1370,
+    "true_accuracy": 0.8868613138686131,
+    "fleet_accuracy": 0.9697083273268944,
+    "fleet_events": 104055,
+    "audit_size": 400,
+    "audit_accuracy": 0.875,
+    "audit_lower": 0.8444627626400565,
+    "audit_upper": 0.9013126304467838
+   },
+   {
+    "seed": 2,
+    "failure_capture": 0.3,
+    "high_codes": 1346,
+    "true_accuracy": 0.8890416047548291,
+    "fleet_accuracy": 0.9575093383881425,
+    "fleet_events": 125557,
+    "audit_size": 400,
+    "audit_accuracy": 0.885,
+    "audit_lower": 0.855357782146154,
+    "audit_upper": 0.9102964928942565
+   },
+   {
+    "seed": 3,
+    "failure_capture": 0.3,
+    "high_codes": 1361,
+    "true_accuracy": 0.8876193975018368,
+    "fleet_accuracy": 0.974364123743746,
+    "fleet_events": 114527,
+    "audit_size": 400,
+    "audit_accuracy": 0.89,
+    "audit_lower": 0.8608280705032794,
+    "audit_upper": 0.9147650224131229
+   },
+   {
+    "seed": 4,
+    "failure_capture": 0.3,
+    "high_codes": 1356,
+    "true_accuracy": 0.8789454277286135,
+    "fleet_accuracy": 0.9660503602818908,
+    "fleet_events": 101032,
+    "audit_size": 400,
+    "audit_accuracy": 0.885,
+    "audit_lower": 0.855357782146154,
+    "audit_upper": 0.9102964928942565
+   },
+   {
+    "seed": 5,
+    "failure_capture": 0.3,
+    "high_codes": 1370,
+    "true_accuracy": 0.8737956204379561,
+    "fleet_accuracy": 0.9736919567297079,
+    "fleet_events": 135890,
+    "audit_size": 400,
+    "audit_accuracy": 0.8775,
+    "audit_lower": 0.847181075322359,
+    "audit_upper": 0.903564180982336
+   },
+   {
+    "seed": 6,
+    "failure_capture": 0.3,
+    "high_codes": 1357,
+    "true_accuracy": 0.8766396462785556,
+    "fleet_accuracy": 0.9649884259259259,
+    "fleet_events": 117504,
+    "audit_size": 400,
+    "audit_accuracy": 0.865,
+    "audit_lower": 0.8336234169869825,
+    "audit_upper": 0.8922716884565127
+   },
+   {
+    "seed": 7,
+    "failure_capture": 0.3,
+    "high_codes": 1323,
+    "true_accuracy": 0.8783824640967497,
+    "fleet_accuracy": 0.9790586371472885,
+    "fleet_events": 150229,
+    "audit_size": 400,
+    "audit_accuracy": 0.85,
+    "audit_lower": 0.817457789640256,
+    "audit_upper": 0.8786147634579837
+   },
+   {
+    "seed": 8,
+    "failure_capture": 0.3,
+    "high_codes": 1293,
+    "true_accuracy": 0.8933488012374322,
+    "fleet_accuracy": 0.9027026200739857,
+    "fleet_events": 261672,
+    "audit_size": 400,
+    "audit_accuracy": 0.9,
+    "audit_lower": 0.8718187679492823,
+    "audit_upper": 0.9236504663542975
+   },
+   {
+    "seed": 9,
+    "failure_capture": 0.3,
+    "high_codes": 1362,
+    "true_accuracy": 0.8893906020558002,
+    "fleet_accuracy": 0.9674329155982521,
+    "fleet_events": 110756,
+    "audit_size": 400,
+    "audit_accuracy": 0.8775,
+    "audit_lower": 0.847181075322359,
+    "audit_upper": 0.903564180982336
+   }
+  ],
+  "true_accuracy": {
+   "mean": 0.8852239163674673,
+   "min": 0.8737956204379561,
+   "max": 0.8982142857142856,
+   "n": 10
+  },
+  "fleet_accuracy": {
+   "mean": 0.9630527562469615,
+   "min": 0.9027026200739857,
+   "max": 0.9790586371472885,
+   "n": 10
+  },
+  "audit_accuracy": {
+   "mean": 0.8825,
+   "min": 0.85,
+   "max": 0.92,
+   "n": 10
+  },
+  "audit_interval_covers_truth": 10
+ },
+ "0.5": {
+  "rows": [
+   {
+    "seed": 0,
+    "failure_capture": 0.5,
+    "high_codes": 1226,
+    "true_accuracy": 0.9362561174551388,
+    "fleet_accuracy": 0.951125082138988,
+    "fleet_events": 112614,
+    "audit_size": 400,
+    "audit_accuracy": 0.9325,
+    "audit_lower": 0.9081144460772158,
+    "audit_upper": 0.9519311833970896
+   },
+   {
+    "seed": 1,
+    "failure_capture": 0.5,
+    "high_codes": 1279,
+    "true_accuracy": 0.9208756841282253,
+    "fleet_accuracy": 0.9565536630372825,
+    "fleet_events": 103507,
+    "audit_size": 400,
+    "audit_accuracy": 0.915,
+    "audit_lower": 0.8884473753973017,
+    "audit_upper": 0.9368313006054864
+   },
+   {
+    "seed": 2,
+    "failure_capture": 0.5,
+    "high_codes": 1252,
+    "true_accuracy": 0.9288738019169328,
+    "fleet_accuracy": 0.9588032880902313,
+    "fleet_events": 125544,
+    "audit_size": 400,
+    "audit_accuracy": 0.945,
+    "audit_lower": 0.9223919917314354,
+    "audit_upper": 0.9624757028375791
+   },
+   {
+    "seed": 3,
+    "failure_capture": 0.5,
+    "high_codes": 1254,
+    "true_accuracy": 0.9314593301435407,
+    "fleet_accuracy": 0.9678591758987608,
+    "fleet_events": 114185,
+    "audit_size": 400,
+    "audit_accuracy": 0.925,
+    "audit_lower": 0.8996454952191479,
+    "audit_upper": 0.9455018032209488
+   },
+   {
+    "seed": 4,
+    "failure_capture": 0.5,
+    "high_codes": 1244,
+    "true_accuracy": 0.9255225080385852,
+    "fleet_accuracy": 0.9571377104409889,
+    "fleet_events": 102701,
+    "audit_size": 400,
+    "audit_accuracy": 0.9299999999999999,
+    "audit_lower": 0.9052841387387227,
+    "audit_upper": 0.9497957303522934
+   },
+   {
+    "seed": 5,
+    "failure_capture": 0.5,
+    "high_codes": 1275,
+    "true_accuracy": 0.9217254901960784,
+    "fleet_accuracy": 0.9715125532093115,
+    "fleet_events": 131321,
+    "audit_size": 400,
+    "audit_accuracy": 0.915,
+    "audit_lower": 0.8884473753973017,
+    "audit_upper": 0.9368313006054864
+   },
+   {
+    "seed": 6,
+    "failure_capture": 0.5,
+    "high_codes": 1248,
+    "true_accuracy": 0.9329326923076925,
+    "fleet_accuracy": 0.9607633640833203,
+    "fleet_events": 115122,
+    "audit_size": 400,
+    "audit_accuracy": 0.92,
+    "audit_lower": 0.8940339908066988,
+    "audit_upper": 0.9411795174134943
+   },
+   {
+    "seed": 7,
+    "failure_capture": 0.5,
+    "high_codes": 1252,
+    "true_accuracy": 0.9233226837060703,
+    "fleet_accuracy": 0.97025642451499,
+    "fleet_events": 143863,
+    "audit_size": 400,
+    "audit_accuracy": 0.915,
+    "audit_lower": 0.8884473753973017,
+    "audit_upper": 0.9368313006054864
+   },
+   {
+    "seed": 8,
+    "failure_capture": 0.5,
+    "high_codes": 1227,
+    "true_accuracy": 0.9317033414832926,
+    "fleet_accuracy": 0.980342796203914,
+    "fleet_events": 195043,
+    "audit_size": 400,
+    "audit_accuracy": 0.935,
+    "audit_lower": 0.9109525660536618,
+    "audit_upper": 0.9540584307676535
+   },
+   {
+    "seed": 9,
+    "failure_capture": 0.5,
+    "high_codes": 1281,
+    "true_accuracy": 0.9236533957845433,
+    "fleet_accuracy": 0.9657331628701276,
+    "fleet_events": 107159,
+    "audit_size": 400,
+    "audit_accuracy": 0.9425,
+    "audit_lower": 0.9195181002593474,
+    "audit_upper": 0.9603862351703107
+   }
+  ],
+  "true_accuracy": {
+   "mean": 0.92763250451601,
+   "min": 0.9208756841282253,
+   "max": 0.9362561174551388,
+   "n": 10
+  },
+  "fleet_accuracy": {
+   "mean": 0.9640087220487915,
+   "min": 0.951125082138988,
+   "max": 0.980342796203914,
+   "n": 10
+  },
+  "audit_accuracy": {
+   "mean": 0.9275,
+   "min": 0.915,
+   "max": 0.945,
+   "n": 10
+  },
+  "audit_interval_covers_truth": 10
+ },
+ "0.7": {
+  "rows": [
+   {
+    "seed": 0,
+    "failure_capture": 0.7,
+    "high_codes": 1204,
+    "true_accuracy": 0.9548588039867111,
+    "fleet_accuracy": 0.9707859358841778,
+    "fleet_events": 119908,
+    "audit_size": 400,
+    "audit_accuracy": 0.9525,
+    "audit_lower": 0.9310783725159711,
+    "audit_upper": 0.9686751987396716
+   },
+   {
+    "seed": 1,
+    "failure_capture": 0.7,
+    "high_codes": 1244,
+    "true_accuracy": 0.9490755627009647,
+    "fleet_accuracy": 0.9439467123714553,
+    "fleet_events": 102688,
+    "audit_size": 400,
+    "audit_accuracy": 0.9575,
+    "audit_lower": 0.9369310999234588,
+    "audit_upper": 0.9727419248902817
+   },
+   {
+    "seed": 2,
+    "failure_capture": 0.7,
+    "high_codes": 1202,
+    "true_accuracy": 0.9475873544093179,
+    "fleet_accuracy": 0.9608827405585542,
+    "fleet_events": 119129,
+    "audit_size": 400,
+    "audit_accuracy": 0.95,
+    "audit_lower": 0.9281714099539652,
+    "audit_upper": 0.9666209865823229
+   },
+   {
+    "seed": 3,
+    "failure_capture": 0.7,
+    "high_codes": 1234,
+    "true_accuracy": 0.9586304700162075,
+    "fleet_accuracy": 0.9691128035339172,
+    "fleet_events": 115679,
+    "audit_size": 400,
+    "audit_accuracy": 0.9625,
+    "audit_lower": 0.9428427495560113,
+    "audit_upper": 0.9767448649837179
+   },
+   {
+    "seed": 4,
+    "failure_capture": 0.7,
+    "high_codes": 1202,
+    "true_accuracy": 0.9441763727121465,
+    "fleet_accuracy": 0.9588523831559463,
+    "fleet_events": 108050,
+    "audit_size": 400,
+    "audit_accuracy": 0.955,
+    "audit_lower": 0.9339979457639275,
+    "audit_upper": 0.9707158779303063
+   },
+   {
+    "seed": 5,
+    "failure_capture": 0.7,
+    "high_codes": 1189,
+    "true_accuracy": 0.9584524810765348,
+    "fleet_accuracy": 0.9707043097315311,
+    "fleet_events": 133535,
+    "audit_size": 400,
+    "audit_accuracy": 0.9475,
+    "audit_lower": 0.9252762026462339,
+    "audit_upper": 0.9645542047010399
+   },
+   {
+    "seed": 6,
+    "failure_capture": 0.7,
+    "high_codes": 1209,
+    "true_accuracy": 0.9424731182795697,
+    "fleet_accuracy": 0.9426972163423643,
+    "fleet_events": 112909,
+    "audit_size": 400,
+    "audit_accuracy": 0.94,
+    "audit_lower": 0.9166539212787461,
+    "audit_upper": 0.9582864747601383
+   },
+   {
+    "seed": 7,
+    "failure_capture": 0.7,
+    "high_codes": 1169,
+    "true_accuracy": 0.9476047904191617,
+    "fleet_accuracy": 0.9686676862945025,
+    "fleet_events": 141228,
+    "audit_size": 400,
+    "audit_accuracy": 0.955,
+    "audit_lower": 0.9339979457639275,
+    "audit_upper": 0.9707158779303063
+   },
+   {
+    "seed": 8,
+    "failure_capture": 0.7,
+    "high_codes": 1173,
+    "true_accuracy": 0.9624467178175619,
+    "fleet_accuracy": 0.907568359587299,
+    "fleet_events": 229997,
+    "audit_size": 400,
+    "audit_accuracy": 0.96,
+    "audit_lower": 0.9398789429235705,
+    "audit_upper": 0.9747520757140476
+   },
+   {
+    "seed": 9,
+    "failure_capture": 0.7,
+    "high_codes": 1230,
+    "true_accuracy": 0.9478455284552847,
+    "fleet_accuracy": 0.9570827411308976,
+    "fleet_events": 107649,
+    "audit_size": 400,
+    "audit_accuracy": 0.955,
+    "audit_lower": 0.9339979457639275,
+    "audit_upper": 0.9707158779303063
+   }
+  ],
+  "true_accuracy": {
+   "mean": 0.9513151199873461,
+   "min": 0.9424731182795697,
+   "max": 0.9624467178175619,
+   "n": 10
+  },
+  "fleet_accuracy": {
+   "mean": 0.9550300888590645,
+   "min": 0.907568359587299,
+   "max": 0.9707859358841778,
+   "n": 10
+  },
+  "audit_accuracy": {
+   "mean": 0.9535,
+   "min": 0.94,
+   "max": 0.9625,
+   "n": 10
+  },
+  "audit_interval_covers_truth": 10
+ },
+ "1.0": {
+  "rows": [
+   {
+    "seed": 0,
+    "failure_capture": 1.0,
+    "high_codes": 1161,
+    "true_accuracy": 0.9708871662360035,
+    "fleet_accuracy": 0.9463763733494608,
+    "fleet_events": 119052,
+    "audit_size": 400,
+    "audit_accuracy": 0.98,
+    "audit_lower": 0.9642033823863597,
+    "audit_upper": 0.9900100860836651
+   },
+   {
+    "seed": 1,
+    "failure_capture": 1.0,
+    "high_codes": 1207,
+    "true_accuracy": 0.9583264291632146,
+    "fleet_accuracy": 0.9516293879476394,
+    "fleet_events": 101756,
+    "audit_size": 400,
+    "audit_accuracy": 0.95,
+    "audit_lower": 0.9281714099539652,
+    "audit_upper": 0.9666209865823229
+   },
+   {
+    "seed": 2,
+    "failure_capture": 1.0,
+    "high_codes": 1166,
+    "true_accuracy": 0.9640222984562606,
+    "fleet_accuracy": 0.9553567098307386,
+    "fleet_events": 123714,
+    "audit_size": 400,
+    "audit_accuracy": 0.96,
+    "audit_lower": 0.9398789429235705,
+    "audit_upper": 0.9747520757140476
+   },
+   {
+    "seed": 3,
+    "failure_capture": 1.0,
+    "high_codes": 1176,
+    "true_accuracy": 0.9673469387755101,
+    "fleet_accuracy": 0.9629477591961306,
+    "fleet_events": 112058,
+    "audit_size": 400,
+    "audit_accuracy": 0.975,
+    "audit_lower": 0.9579634549857428,
+    "audit_upper": 0.9863752879978862
+   },
+   {
+    "seed": 4,
+    "failure_capture": 1.0,
+    "high_codes": 1183,
+    "true_accuracy": 0.9644970414201184,
+    "fleet_accuracy": 0.95476922764599,
+    "fleet_events": 98517,
+    "audit_size": 400,
+    "audit_accuracy": 0.955,
+    "audit_lower": 0.9339979457639275,
+    "audit_upper": 0.9707158779303063
+   },
+   {
+    "seed": 5,
+    "failure_capture": 1.0,
+    "high_codes": 1179,
+    "true_accuracy": 0.9629770992366411,
+    "fleet_accuracy": 0.9619252495317754,
+    "fleet_events": 132949,
+    "audit_size": 400,
+    "audit_accuracy": 0.95,
+    "audit_lower": 0.9281714099539652,
+    "audit_upper": 0.9666209865823229
+   },
+   {
+    "seed": 6,
+    "failure_capture": 1.0,
+    "high_codes": 1193,
+    "true_accuracy": 0.9630762782900252,
+    "fleet_accuracy": 0.9469896511291994,
+    "fleet_events": 117694,
+    "audit_size": 400,
+    "audit_accuracy": 0.9575,
+    "audit_lower": 0.9369310999234588,
+    "audit_upper": 0.9727419248902817
+   },
+   {
+    "seed": 7,
+    "failure_capture": 1.0,
+    "high_codes": 1158,
+    "true_accuracy": 0.9553540587219344,
+    "fleet_accuracy": 0.960240361930667,
+    "fleet_events": 144116,
+    "audit_size": 400,
+    "audit_accuracy": 0.9575,
+    "audit_lower": 0.9369310999234588,
+    "audit_upper": 0.9727419248902817
+   },
+   {
+    "seed": 8,
+    "failure_capture": 1.0,
+    "high_codes": 1143,
+    "true_accuracy": 0.9686789151356081,
+    "fleet_accuracy": 0.957122394547071,
+    "fleet_events": 202460,
+    "audit_size": 400,
+    "audit_accuracy": 0.965,
+    "audit_lower": 0.94582399910624,
+    "audit_upper": 0.9787185775412938
+   },
+   {
+    "seed": 9,
+    "failure_capture": 1.0,
+    "high_codes": 1201,
+    "true_accuracy": 0.9611157368859286,
+    "fleet_accuracy": 0.9494963458578709,
+    "fleet_events": 108507,
+    "audit_size": 400,
+    "audit_accuracy": 0.97,
+    "audit_lower": 0.951846078977774,
+    "audit_upper": 0.9826002552304087
+   }
+  ],
+  "true_accuracy": {
+   "mean": 0.9636281962321244,
+   "min": 0.9553540587219344,
+   "max": 0.9708871662360035,
+   "n": 10
+  },
+  "fleet_accuracy": {
+   "mean": 0.9546853460966542,
+   "min": 0.9463763733494608,
+   "max": 0.9629477591961306,
+   "n": 10
+  },
+  "audit_accuracy": {
+   "mean": 0.9620000000000001,
+   "min": 0.95,
+   "max": 0.98,
+   "n": 10
+  },
+  "audit_interval_covers_truth": 10
+ }
+}

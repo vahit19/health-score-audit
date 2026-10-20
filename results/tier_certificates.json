@@ -1,0 +1,452 @@
+[
+ {
+  "target": 0.95,
+  "audit_size": 1397,
+  "types": {
+   "evergreen": {
+    "listed": 1224,
+    "audited": 1224,
+    "fixed_rule_threshold": 0.8,
+    "fixed_rule_codes": 1177,
+    "fixed_rule_true_accuracy": 0.8935429056924382,
+    "certified_threshold": 0.980219602849301,
+    "certified_codes": 1016,
+    "certified_true_accuracy": 0.9689468503937008,
+    "certified_lower_bound": 0.9581584773993685,
+    "high_dead_share": 0.028037383177570093,
+    "high_conditional_share": 0.12064570943075616
+   },
+   "regular": {
+    "listed": 169,
+    "audited": 169,
+    "fixed_rule_threshold": 0.8,
+    "fixed_rule_codes": 138,
+    "fixed_rule_true_accuracy": 0.9373188405797102,
+    "certified_threshold": null,
+    "certified_codes": 0,
+    "certified_true_accuracy": null,
+    "certified_lower_bound": null,
+    "high_dead_share": 0.057971014492753624,
+    "high_conditional_share": 0.007246376811594203
+   },
+   "flash": {
+    "listed": 4,
+    "audited": 4,
+    "fixed_rule_threshold": 0.8,
+    "fixed_rule_codes": 1,
+    "fixed_rule_true_accuracy": 1.0,
+    "certified_threshold": null,
+    "certified_codes": 0,
+    "certified_true_accuracy": null,
+    "certified_lower_bound": null,
+    "high_dead_share": 0.0,
+    "high_conditional_share": 0.0
+   }
+  }
+ },
+ {
+  "target": 0.95,
+  "audit_size": 1474,
+  "types": {
+   "evergreen": {
+    "listed": 1313,
+    "audited": 1313,
+    "fixed_rule_threshold": 0.8,
+    "fixed_rule_codes": 1238,
+    "fixed_rule_true_accuracy": 0.884168012924071,
+    "certified_threshold": 0.9826305829100751,
+    "certified_codes": 958,
+    "certified_true_accuracy": 0.9796450939457203,
+    "certified_lower_bound": 0.9606085477385014,
+    "high_dead_share": 0.033925686591276254,
+    "high_conditional_share": 0.1260096930533118
+   },
+   "regular": {
+    "listed": 160,
+    "audited": 160,
+    "fixed_rule_threshold": 0.8,
+    "fixed_rule_codes": 132,
+    "fixed_rule_true_accuracy": 0.9121212121212121,
+    "certified_threshold": null,
+    "certified_codes": 0,
+    "certified_true_accuracy": null,
+    "certified_lower_bound": null,
+    "high_dead_share": 0.06818181818181818,
+    "high_conditional_share": 0.030303030303030304
+   },
+   "flash": {
+    "listed": 1,
+    "audited": 1,
+    "fixed_rule_threshold": 0.8,
+    "fixed_rule_codes": 0,
+    "fixed_rule_true_accuracy": null,
+    "certified_threshold": null,
+    "certified_codes": 0,
+    "certified_true_accuracy": null,
+    "certified_lower_bound": null,
+    "high_dead_share": 0.0,
+    "high_conditional_share": 0.0
+   }
+  }
+ },
+ {
+  "target": 0.95,
+  "audit_size": 1433,
+  "types": {
+   "evergreen": {
+    "listed": 1233,
+    "audited": 1233,
+    "fixed_rule_threshold": 0.8,
+    "fixed_rule_codes": 1180,
+    "fixed_rule_true_accuracy": 0.8872033898305084,
+    "certified_threshold": 0.9781901555914224,
+    "certified_codes": 1005,
+    "certified_true_accuracy": 0.9617412935323383,
+    "certified_lower_bound": 0.9507005775113612,
+    "high_dead_share": 0.027966101694915254,
+    "high_conditional_share": 0.13050847457627118
+   },
+   "regular": {
+    "listed": 198,
+    "audited": 198,
+    "fixed_rule_threshold": 0.8,
+    "fixed_rule_codes": 165,
+    "fixed_rule_true_accuracy": 0.9015151515151515,
+    "certified_threshold": null,
+    "certified_codes": 0,
+    "certified_true_accuracy": null,
+    "certified_lower_bound": null,
+    "high_dead_share": 0.07878787878787878,
+    "high_conditional_share": 0.030303030303030304
+   },
+   "flash": {
+    "listed": 2,
+    "audited": 2,
+    "fixed_rule_threshold": 0.8,
+    "fixed_rule_codes": 1,
+    "fixed_rule_true_accuracy": 1.0,
+    "certified_threshold": null,
+    "certified_codes": 0,
+    "certified_true_accuracy": null,
+    "certified_lower_bound": null,
+    "high_dead_share": 0.0,
+    "high_conditional_share": 0.0
+   }
+  }
+ },
+ {
+  "target": 0.95,
+  "audit_size": 1470,
+  "types": {
+   "evergreen": {
+    "listed": 1274,
+    "audited": 1274,
+    "fixed_rule_threshold": 0.8,
+    "fixed_rule_codes": 1214,
+    "fixed_rule_true_accuracy": 0.8868616144975289,
+    "certified_threshold": 0.9820137900379085,
+    "certified_codes": 1009,
+    "certified_true_accuracy": 0.9690287413280476,
+    "certified_lower_bound": 0.9567000023528319,
+    "high_dead_share": 0.02800658978583196,
+    "high_conditional_share": 0.13097199341021418
+   },
+   "regular": {
+    "listed": 193,
+    "audited": 193,
+    "fixed_rule_threshold": 0.8,
+    "fixed_rule_codes": 147,
+    "fixed_rule_true_accuracy": 0.893877551020408,
+    "certified_threshold": null,
+    "certified_codes": 0,
+    "certified_true_accuracy": null,
+    "certified_lower_bound": null,
+    "high_dead_share": 0.08843537414965986,
+    "high_conditional_share": 0.027210884353741496
+   },
+   "flash": {
+    "listed": 3,
+    "audited": 3,
+    "fixed_rule_threshold": 0.8,
+    "fixed_rule_codes": 0,
+    "fixed_rule_true_accuracy": null,
+    "certified_threshold": null,
+    "certified_codes": 0,
+    "certified_true_accuracy": null,
+    "certified_lower_bound": null,
+    "high_dead_share": 0.0,
+    "high_conditional_share": 0.0
+   }
+  }
+ },
+ {
+  "target": 0.95,
+  "audit_size": 1464,
+  "types": {
+   "evergreen": {
+    "listed": 1290,
+    "audited": 1290,
+    "fixed_rule_threshold": 0.8,
+    "fixed_rule_codes": 1221,
+    "fixed_rule_true_accuracy": 0.8827190827190827,
+    "certified_threshold": 0.9799857341578472,
+    "certified_codes": 1014,
+    "certified_true_accuracy": 0.9682445759368836,
+    "certified_lower_bound": 0.9511348809269151,
+    "high_dead_share": 0.027846027846027847,
+    "high_conditional_share": 0.1375921375921376
+   },
+   "regular": {
+    "listed": 168,
+    "audited": 168,
+    "fixed_rule_threshold": 0.8,
+    "fixed_rule_codes": 134,
+    "fixed_rule_true_accuracy": 0.8436567164179105,
+    "certified_threshold": null,
+    "certified_codes": 0,
+    "certified_true_accuracy": null,
+    "certified_lower_bound": null,
+    "high_dead_share": 0.1417910447761194,
+    "high_conditional_share": 0.022388059701492536
+   },
+   "flash": {
+    "listed": 6,
+    "audited": 6,
+    "fixed_rule_threshold": 0.8,
+    "fixed_rule_codes": 1,
+    "fixed_rule_true_accuracy": 1.0,
+    "certified_threshold": null,
+    "certified_codes": 0,
+    "certified_true_accuracy": null,
+    "certified_lower_bound": null,
+    "high_dead_share": 0.0,
+    "high_conditional_share": 0.0
+   }
+  }
+ },
+ {
+  "target": 0.95,
+  "audit_size": 1452,
+  "types": {
+   "evergreen": {
+    "listed": 1279,
+    "audited": 1279,
+    "fixed_rule_threshold": 0.8,
+    "fixed_rule_codes": 1222,
+    "fixed_rule_true_accuracy": 0.8726677577741409,
+    "certified_threshold": 0.9833948341114784,
+    "certified_codes": 946,
+    "certified_true_accuracy": 0.9704545454545455,
+    "certified_lower_bound": 0.9575907734144506,
+    "high_dead_share": 0.029459901800327332,
+    "high_conditional_share": 0.15057283142389524
+   },
+   "regular": {
+    "listed": 172,
+    "audited": 172,
+    "fixed_rule_threshold": 0.8,
+    "fixed_rule_codes": 148,
+    "fixed_rule_true_accuracy": 0.883108108108108,
+    "certified_threshold": null,
+    "certified_codes": 0,
+    "certified_true_accuracy": null,
+    "certified_lower_bound": null,
+    "high_dead_share": 0.10810810810810811,
+    "high_conditional_share": 0.013513513513513514
+   },
+   "flash": {
+    "listed": 1,
+    "audited": 1,
+    "fixed_rule_threshold": 0.8,
+    "fixed_rule_codes": 0,
+    "fixed_rule_true_accuracy": null,
+    "certified_threshold": null,
+    "certified_codes": 0,
+    "certified_true_accuracy": null,
+    "certified_lower_bound": null,
+    "high_dead_share": 0.0,
+    "high_conditional_share": 0.0
+   }
+  }
+ },
+ {
+  "target": 0.95,
+  "audit_size": 1460,
+  "types": {
+   "evergreen": {
+    "listed": 1304,
+    "audited": 1304,
+    "fixed_rule_threshold": 0.8,
+    "fixed_rule_codes": 1237,
+    "fixed_rule_true_accuracy": 0.8764753435731607,
+    "certified_threshold": 0.9817541384938689,
+    "certified_codes": 1017,
+    "certified_true_accuracy": 0.9663716814159291,
+    "certified_lower_bound": 0.9535735559514065,
+    "high_dead_share": 0.033144704931285365,
+    "high_conditional_share": 0.13904607922392886
+   },
+   "regular": {
+    "listed": 149,
+    "audited": 149,
+    "fixed_rule_threshold": 0.8,
+    "fixed_rule_codes": 119,
+    "fixed_rule_true_accuracy": 0.877310924369748,
+    "certified_threshold": null,
+    "certified_codes": 0,
+    "certified_true_accuracy": null,
+    "certified_lower_bound": null,
+    "high_dead_share": 0.10084033613445378,
+    "high_conditional_share": 0.03361344537815126
+   },
+   "flash": {
+    "listed": 7,
+    "audited": 7,
+    "fixed_rule_threshold": 0.8,
+    "fixed_rule_codes": 1,
+    "fixed_rule_true_accuracy": 1.0,
+    "certified_threshold": null,
+    "certified_codes": 0,
+    "certified_true_accuracy": null,
+    "certified_lower_bound": null,
+    "high_dead_share": 0.0,
+    "high_conditional_share": 0.0
+   }
+  }
+ },
+ {
+  "target": 0.95,
+  "audit_size": 1415,
+  "types": {
+   "evergreen": {
+    "listed": 1245,
+    "audited": 1245,
+    "fixed_rule_threshold": 0.8,
+    "fixed_rule_codes": 1190,
+    "fixed_rule_true_accuracy": 0.8773529411764706,
+    "certified_threshold": 0.9801786756098559,
+    "certified_codes": 996,
+    "certified_true_accuracy": 0.9659638554216867,
+    "certified_lower_bound": 0.953777883041474,
+    "high_dead_share": 0.03361344537815126,
+    "high_conditional_share": 0.1369747899159664
+   },
+   "regular": {
+    "listed": 167,
+    "audited": 167,
+    "fixed_rule_threshold": 0.8,
+    "fixed_rule_codes": 132,
+    "fixed_rule_true_accuracy": 0.8867424242424243,
+    "certified_threshold": null,
+    "certified_codes": 0,
+    "certified_true_accuracy": null,
+    "certified_lower_bound": null,
+    "high_dead_share": 0.09848484848484848,
+    "high_conditional_share": 0.022727272727272728
+   },
+   "flash": {
+    "listed": 3,
+    "audited": 3,
+    "fixed_rule_threshold": 0.8,
+    "fixed_rule_codes": 1,
+    "fixed_rule_true_accuracy": 1.0,
+    "certified_threshold": null,
+    "certified_codes": 0,
+    "certified_true_accuracy": null,
+    "certified_lower_bound": null,
+    "high_dead_share": 0.0,
+    "high_conditional_share": 0.0
+   }
+  }
+ },
+ {
+  "target": 0.95,
+  "audit_size": 1403,
+  "types": {
+   "evergreen": {
+    "listed": 1231,
+    "audited": 1231,
+    "fixed_rule_threshold": 0.8,
+    "fixed_rule_codes": 1156,
+    "fixed_rule_true_accuracy": 0.8913494809688582,
+    "certified_threshold": 0.9820137900379085,
+    "certified_codes": 968,
+    "certified_true_accuracy": 0.9670971074380164,
+    "certified_lower_bound": 0.9524509378514447,
+    "high_dead_share": 0.02768166089965398,
+    "high_conditional_share": 0.1245674740484429
+   },
+   "regular": {
+    "listed": 170,
+    "audited": 170,
+    "fixed_rule_threshold": 0.8,
+    "fixed_rule_codes": 136,
+    "fixed_rule_true_accuracy": 0.9095588235294118,
+    "certified_threshold": null,
+    "certified_codes": 0,
+    "certified_true_accuracy": null,
+    "certified_lower_bound": null,
+    "high_dead_share": 0.08088235294117647,
+    "high_conditional_share": 0.014705882352941176
+   },
+   "flash": {
+    "listed": 2,
+    "audited": 2,
+    "fixed_rule_threshold": 0.8,
+    "fixed_rule_codes": 1,
+    "fixed_rule_true_accuracy": 1.0,
+    "certified_threshold": null,
+    "certified_codes": 0,
+    "certified_true_accuracy": null,
+    "certified_lower_bound": null,
+    "high_dead_share": 0.0,
+    "high_conditional_share": 0.0
+   }
+  }
+ },
+ {
+  "target": 0.95,
+  "audit_size": 1459,
+  "types": {
+   "evergreen": {
+    "listed": 1278,
+    "audited": 1278,
+    "fixed_rule_threshold": 0.8,
+    "fixed_rule_codes": 1202,
+    "fixed_rule_true_accuracy": 0.8846089850249583,
+    "certified_threshold": 0.9837913548115884,
+    "certified_codes": 926,
+    "certified_true_accuracy": 0.9733261339092873,
+    "certified_lower_bound": 0.956681514035654,
+    "high_dead_share": 0.029950083194675542,
+    "high_conditional_share": 0.1314475873544093
+   },
+   "regular": {
+    "listed": 178,
+    "audited": 178,
+    "fixed_rule_threshold": 0.8,
+    "fixed_rule_codes": 158,
+    "fixed_rule_true_accuracy": 0.924367088607595,
+    "certified_threshold": null,
+    "certified_codes": 0,
+    "certified_true_accuracy": null,
+    "certified_lower_bound": null,
+    "high_dead_share": 0.06329113924050633,
+    "high_conditional_share": 0.0189873417721519
+   },
+   "flash": {
+    "listed": 3,
+    "audited": 3,
+    "fixed_rule_threshold": 0.8,
+    "fixed_rule_codes": 2,
+    "fixed_rule_true_accuracy": 1.0,
+    "certified_threshold": null,
+    "certified_codes": 0,
+    "certified_true_accuracy": null,
+    "certified_lower_bound": null,
+    "high_dead_share": 0.0,
+    "high_conditional_share": 0.0
+   }
+  }
+ }
+]

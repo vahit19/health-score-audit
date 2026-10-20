@@ -1,0 +1,32 @@
+[project]
+name = "health-score-audit"
+version = "0.1.0"
+description = "Audit a coupon-code health score: fleet bias, certified tiers, drift alarms, cart applicability"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Vahit FERYAD", email = "vahit.feryat@gmail.com" }]
+dependencies = [
+    "numpy>=1.24",
+    "scipy>=1.10",
+    "verdict-gate @ git+https://github.com/vahit19/verdict-gate",
+]
+
+[project.optional-dependencies]
+figures = ["matplotlib>=3.8"]
+
+[dependency-groups]
+dev = ["pytest>=8"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.metadata]
+allow-direct-references = true
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/health_score_audit"]
+
+[project.scripts]
+hsa = "health_score_audit.cli:main"
